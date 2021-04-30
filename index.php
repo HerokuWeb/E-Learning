@@ -367,7 +367,7 @@
       <div class="row">
         <div class="col-md-4 col-sm-6 padleft-right">
           <figure class="imghvr-fold-up">
-            <img src="img/course01.jpg" class="img-responsive">
+            <img src="img/Java.png" class="img-responsive">
             <figcaption>
               <h3>Course Name</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam atque, nostrum veniam consequatur libero fugiat, similique quis.</p>
@@ -377,7 +377,7 @@
         </div>
         <div class="col-md-4 col-sm-6 padleft-right">
           <figure class="imghvr-fold-up">
-            <img src="img/course02.jpg" class="img-responsive">
+            <img src="img/c++.png" class="img-responsive">
             <figcaption>
               <h3>Course Name</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam atque, nostrum veniam consequatur libero fugiat, similique quis.</p>
@@ -387,7 +387,7 @@
         </div>
         <div class="col-md-4 col-sm-6 padleft-right">
           <figure class="imghvr-fold-up">
-            <img src="img/course03.jpg" class="img-responsive">
+            <img src="img/HTML.png" class="img-responsive">
             <figcaption>
               <h3>Course Name</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam atque, nostrum veniam consequatur libero fugiat, similique quis.</p>
@@ -397,7 +397,7 @@
         </div>
         <div class="col-md-4 col-sm-6 padleft-right">
           <figure class="imghvr-fold-up">
-            <img src="img/course04.jpg" class="img-responsive">
+            <img src="img/php.png" class="img-responsive">
             <figcaption>
               <h3>Course Name</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam atque, nostrum veniam consequatur libero fugiat, similique quis.</p>
@@ -407,7 +407,7 @@
         </div>
         <div class="col-md-4 col-sm-6 padleft-right">
           <figure class="imghvr-fold-up">
-            <img src="img/course05.jpg" class="img-responsive">
+            <img src="img/phyton.png" class="img-responsive">
             <figcaption>
               <h3>Course Name</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam atque, nostrum veniam consequatur libero fugiat, similique quis.</p>
@@ -417,7 +417,7 @@
         </div>
         <div class="col-md-4 col-sm-6 padleft-right">
           <figure class="imghvr-fold-up">
-            <img src="img/course06.jpg" class="img-responsive">
+            <img src="img/dart.png" class="img-responsive">
             <figcaption>
               <h3>Course Name</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam atque, nostrum veniam consequatur libero fugiat, similique quis.</p>
