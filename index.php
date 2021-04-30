@@ -369,8 +369,8 @@
           <figure class="imghvr-fold-up">
             <img src="img/Java.png" class="img-responsive">
             <figcaption>
-              <h3>Course Name</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam atque, nostrum veniam consequatur libero fugiat, similique quis.</p>
+              <h3>JAVA Language</h3>
+              <p></p>
             </figcaption>
             <a href="#"></a>
           </figure>
@@ -379,8 +379,8 @@
           <figure class="imghvr-fold-up">
             <img src="img/c++.png" class="img-responsive">
             <figcaption>
-              <h3>Course Name</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam atque, nostrum veniam consequatur libero fugiat, similique quis.</p>
+              <h3>C Language</h3>
+              <p></p>
             </figcaption>
             <a href="#"></a>
           </figure>
@@ -389,8 +389,8 @@
           <figure class="imghvr-fold-up">
             <img src="img/HTML.png" class="img-responsive">
             <figcaption>
-              <h3>Course Name</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam atque, nostrum veniam consequatur libero fugiat, similique quis.</p>
+              <h3>HTML Language</h3>
+              <p></p>
             </figcaption>
             <a href="#"></a>
           </figure>
@@ -399,8 +399,8 @@
           <figure class="imghvr-fold-up">
             <img src="img/php.png" class="img-responsive">
             <figcaption>
-              <h3>Course Name</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam atque, nostrum veniam consequatur libero fugiat, similique quis.</p>
+              <h3>PHP Language</h3>
+              <p></p>
             </figcaption>
             <a href="#"></a>
           </figure>
@@ -409,8 +409,8 @@
           <figure class="imghvr-fold-up">
             <img src="img/phyton.png" class="img-responsive">
             <figcaption>
-              <h3>Course Name</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam atque, nostrum veniam consequatur libero fugiat, similique quis.</p>
+              <h3>PHYTON Language</h3>
+              <p></p>
             </figcaption>
             <a href="#"></a>
           </figure>
@@ -419,8 +419,8 @@
           <figure class="imghvr-fold-up">
             <img src="img/dart.png" class="img-responsive">
             <figcaption>
-              <h3>Course Name</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam atque, nostrum veniam consequatur libero fugiat, similique quis.</p>
+              <h3>DART Language</h3>
+              <p></p>
             </figcaption>
             <a href="#"></a>
           </figure>
