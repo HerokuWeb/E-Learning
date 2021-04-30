@@ -282,7 +282,7 @@
           <div class="pm-staff-profile-container">
             <div class="pm-staff-profile-image-wrapper text-center">
               <div class="pm-staff-profile-image">
-                <img src="img/andy.jpg" alt="" class="img-thumbnail img-circle" />
+                <img src="img/mentor.jpg" alt="" class="img-thumbnail img-circle" />
               </div>
             </div>
             <div class="pm-staff-profile-details text-center">
